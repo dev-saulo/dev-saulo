@@ -6,6 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ggrodd29) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saulochristian_/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulocmd&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulocmd)](https://github.com/saulocmd/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia e estou estudando 🤓💻
 
