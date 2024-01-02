@@ -37,5 +37,5 @@
   <a href="https://wa.me/5584986358619" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/5584986358619" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/saulochristian_" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@saulochristian_" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@saulochristian_&target=_blank" alt="Instagram"/></a>
 </p>
