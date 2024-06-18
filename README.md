@@ -10,10 +10,9 @@
 <p align="left">
   💻 Linguagens: 
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
     <li>JS</li>
     <li>C#</li>
+    <li>SQL</li>
   </ul>
 </p>
 
