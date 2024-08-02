@@ -24,7 +24,7 @@
 </ul>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-saulo&theme=solarized-dark)](https://git.io/streak-stats)   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-saulo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-saulo&theme=solarized-dark&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=454&card_height=160)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-saulo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 <p align="left">
