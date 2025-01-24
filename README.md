@@ -21,6 +21,7 @@
   <ul>
   <li>Visual Studio</li>
   <li>VS Code</li>
+  <li>SQL Server Management Studio</li>
 </ul>
 </p>
 
