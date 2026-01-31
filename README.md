@@ -3,8 +3,8 @@
 <p align="left"> 
   Hello There! <br>
   Sou Saulo, atualmente desenvolvo no <strong>Front e Back-end</strong>.<br>
-  Trabalho como Assistente de TI com ênfase em desenvolvimento, presto suporte aos sistemas desenvolvidos pela equipe, auxilio no desenvolvimento de manuais e no desenvolvimento de sistemas. <br>
-  Sou formado em Redes de Computadores pelo IFRN e sigo estudando as tecnologias do Front e Back-end..
+  Trabalho como Técnico de TI - desenvolvedor, presto suporte aos sistemas desenvolvidos, auxilio no desenvolvimento de manuais e desenvolvo sistemas internos utilizando C#, .NET, Tailwind, Bootstrap e SQL Server. <br>
+  Sou formado em Redes de Computadores pelo IFRN e estou cursando Sistemas para Internet na UERN, sigo sempre estudando as tecnologias do Front e Back-end..
 </p>
 
 <p align="left">
